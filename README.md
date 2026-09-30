@@ -37,3 +37,17 @@ The first milestone is 3–5 exploratory interviews about recent learning diffic
 | [Validation plan](docs/validation-plan.md) | Recruit participants, synthesize evidence, and decide the next research step. |
 
 There is no application, model API integration, or setup process at this stage. This repository contains the project's product discovery documents. Future portfolio updates should report actual evidence and limitations, with participant information removed.
+
+## Student reflection
+
+### 1. Which metadata standard did you choose and why?
+
+I did not use a formal metadata standard like Dublin Core. Instead, I created a simple structure that fits my interview project. It includes participant IDs, learning backgrounds, evidence types, and consent. I also added a data dictionary to explain each field so I can record future interviews consistently.
+
+### 2. Which template/software did you use?
+
+I used a custom Markdown template for my README. It introduces the target users, problem, proposed product flow, and current project stage. I used Codex to help draft and edit the documents, Git to track changes, and GitHub CLI to upload the project to GitHub.
+
+### 3. What was the most challenging part of creating a README file? How did you overcome these obstacles?
+
+The hardest part was explaining my idea without making it sound like I had already proven that it would work. Since I have not conducted interviews yet, I clearly labeled the project as being in the user needs validation stage. I described the features as proposed ideas and linked my interview guide and validation plan to show what I will do next.
