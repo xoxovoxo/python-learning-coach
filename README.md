@@ -1,5 +1,8 @@
 # Python Learning Coach
+## Researcher information
 
+- ORCID iD: https://orcid.org/0009-0001-0085-6269
+- Project DOI: Not yet assigned.
 **Stage: user needs validation.** This is an early product hypothesis, not a working application or a validated solution. No user interviews have been conducted and no findings or product outcomes are available.
 
 This portfolio project explores whether Python beginners need better support for understanding mistakes and checking whether they can apply what they learned. It is being developed by a TC Learning Analytics student with strong Python skills, as a product discovery project for US AI product management internship applications.
