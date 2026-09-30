@@ -35,4 +35,4 @@ The first milestone is 3–5 exploratory interviews about recent learning diffic
 | [Interview notes template](docs/interview-notes-template.md) | Keep quotes, observations, and interpretations separate. |
 | [Validation plan](docs/validation-plan.md) | Recruit participants, synthesize evidence, and decide the next research step. |
 
-There is no application, model API integration, or setup process at this stage. These materials have been prepared locally; they have not been published to GitHub. Future portfolio updates should report actual evidence and limitations, with participant information removed.
+There is no application, model API integration, or setup process at this stage. This repository contains the project's product discovery documents. Future portfolio updates should report actual evidence and limitations, with participant information removed.
