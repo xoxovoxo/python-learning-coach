@@ -38,7 +38,7 @@ The first milestone is 3–5 exploratory interviews about recent learning diffic
 
 There is no application, model API integration, or setup process at this stage. This repository contains the project's product discovery documents. Future portfolio updates should report actual evidence and limitations, with participant information removed.
 
-Personal notebook
+## Personal notebook
 
 ### 1. Which metadata standard did you choose and why?
 
