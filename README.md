@@ -33,6 +33,7 @@ The first milestone is 3–5 exploratory interviews about recent learning diffic
 | [Product hypothesis](docs/product-hypothesis.md) | Separate known context from assumptions and identify what could disconfirm them. |
 | [Interview guide](docs/interview-guide.md) | Run a neutral 15–20 minute conversation about a real experience. |
 | [Interview notes template](docs/interview-notes-template.md) | Keep quotes, observations, and interpretations separate. |
+| [Interview data dictionary](docs/data-dictionary.md) | Define research fields, allowed values, missing information, and evidence types. |
 | [Validation plan](docs/validation-plan.md) | Recruit participants, synthesize evidence, and decide the next research step. |
 
 There is no application, model API integration, or setup process at this stage. This repository contains the project's product discovery documents. Future portfolio updates should report actual evidence and limitations, with participant information removed.
