@@ -6,7 +6,7 @@ This portfolio project explores whether Python beginners need better support for
 
 ## Researcher information
 
-- ORCID iD: https://orcid.org/0009-0001-0085-6269
+- ORCID iD: 0009-0001-0085-6269
 - Project DOI: Not yet assigned.
 
 ## Proposed target users
